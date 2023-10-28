@@ -50,6 +50,7 @@ public class VentesAnalysis2 {
         Configuration configuration = new Configuration();
 
         Job job = Job.getInstance(configuration);
+        job.setJar("mape-reduce-1.0-SNAPSHOT.jar");
 
         //Les classes Mapper et Reducer
         job.setMapperClass(VentesMapper.class);

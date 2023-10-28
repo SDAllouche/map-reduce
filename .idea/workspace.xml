@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a867ebe7-886d-4b1f-bfc0-d01e4f381b1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/logs/LogsAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/ventes/VentesAnalysis2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/wordCount/WordCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/wordCount/ClassMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/wordCount/ClassReducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/wordCount/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/enset/ventes/VentesAnalysis1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/wordCount/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/enset/wordCount/WordCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +45,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/SALAHEDDINE/Desktop/BD/map-reduce/src/main/java/ma/enset/ventes",
+    "last_opened_file_path": "/home/vboxuser/BD/map-reduce",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/vboxuser/BD/mape-reduce/src/main/java/ma/enset/Main.java",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2137931",
     "vue.rearranger.settings.migration": "true"
@@ -151,6 +145,7 @@
       <workItem from="1698391299137" duration="3542000" />
       <workItem from="1698396866925" duration="940000" />
       <workItem from="1698494281037" duration="4987000" />
+      <workItem from="1698511356251" duration="2255000" />
     </task>
     <servers />
   </component>
